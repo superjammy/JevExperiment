@@ -1,0 +1,5 @@
+flask
+python-dotenv
+langchain
+langchain-anthropic
+langchain-typesafe[experimental]==0.0.1a3
